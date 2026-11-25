@@ -1,0 +1,6 @@
+{
+  "name": "EDGE — Trading Journal & Performance Analytics",
+  "description": "Premium trading journal, performance analytics, strategy playbook, and AI trading coach inspired by TradeZella.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
